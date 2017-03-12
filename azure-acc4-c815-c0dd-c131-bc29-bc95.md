@@ -38,9 +38,9 @@ Step 4: 첫 단계로 사용자 정보를 입력합니다. 빨간색 별표 표�
 Azure는 AWS처럼 1년간 사용 가능한 Free-Tier를 제공하지는 않습니다. 하지만 다양한 방법으로 무료 계정 또는 할인 혜택을 받으실 수 있습니다. 아래는 무료 혜택을 받으실 수 있는 여러 가지 방법들을 정리한 것입니다.
 
 * 비정기적으로 한국 Azure 사용자 그룹에서는 Azure Free Pass 쿠폰을 발급하여 나누어드립니다. Azure Free Pass 쿠폰을 이용하여 신용 카드 정보를 등록하지 않고 더 많은 금액 지원을 받아 풍부하게 Azure 플랫폼을 체험해보실 수 있습니다. 항상 한국 Azure 사용자 그룹 블로그 및 페이스북에 자주 방문하셔서 최신 정보도 얻어가고, 무료 쿠폰 획득의 기회도 얻어가시기 바랍니다.
-* 최대 5명의 개발자가 MSDN 구독을 받아서 사용할 수 있는 BizSpark 프로그램을 이용하면 설립 초기에 발생하는 개발 도구 및 개발용 인프라 구축 비용을 최소화하실 수 있습니다. 설립 5년 미만, 연매출 5억 미만의 스타트업이라면 BizSpark 프로그램을 통하여 3년간 Azure 구독 및 MSDN 구독을 지원받으실 수 있습니다. 자세한 정보는 https://www.microsoft.com/ko-kr/events/bizspark 페이지를 참고하시기 바랍니다.
+* 최대 5명의 개발자가 MSDN 구독을 받아서 사용할 수 있는 BizSpark 프로그램을 이용하면 설립 초기에 발생하는 개발 도구 및 개발용 인프라 구축 비용을 최소화하실 수 있습니다. 설립 5년 미만, 연매출 5억 미만의 스타트업이라면 BizSpark 프로그램을 통하여 3년간 Azure 구독 및 MSDN 구독을 지원받으실 수 있습니다. 자세한 정보는 [https://www.microsoft.com/ko-kr/events/bizspark](https://www.microsoft.com/ko-kr/events/bizspark) 페이지를 참고하시기 바랍니다.
 * 기관 및 단체에서 MSDN 구독 또는 Visual Studio 구독을 이미 보유하고 계시다면, MSDN 계정에 로그인하셔서 무료 Azure 구독 혜택을 얻으실 수 있습니다. MSDN 구독이 종료되기 전까지 매달 일정 금액이 충전됩니다.
-* Microsoft Imagine 프로그램으로 Office나 Windows 소프트웨어 혜택 이외에도 Azure에 대한 무료 계정 지원을 받을 수도 있습니다. https://azure.microsoft.com/ko-kr/offers/ms-azr-0144p/ 에서 자세한 내용을 확인하시기 바랍니다.
+* Microsoft Imagine 프로그램으로 Office나 Windows 소프트웨어 혜택 이외에도 Azure에 대한 무료 계정 지원을 받을 수도 있습니다. [https://azure.microsoft.com/ko-kr/offers/ms-azr-0144p/](https://azure.microsoft.com/ko-kr/offers/ms-azr-0144p/) 에서 자세한 내용을 확인하시기 바랍니다.
 
 
 
